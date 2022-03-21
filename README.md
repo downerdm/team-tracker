@@ -94,6 +94,6 @@ The following image shows the HTML page that was generated during the video.
 
 ## Walkthrough Video
 
-The following walkthrough video shows all tests being run, the application in use, the HTML file generated, the link to the email working, and the link to GitHub opening in a new tab.
+The following walkthrough video shows all tests being run, the application in use, the HTML file generated, the link to the email working, and the link to GitHub opening in a new tab.  (NOTE:  The file is too large to show on GitHub.  The raw file can be downloaded and then played.  A link was also submitted with the homework files.)
 
 ![Walkthrough Video](./main/assets/Downer_TeamTracker.webm)
