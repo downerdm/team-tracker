@@ -8,5 +8,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/downerdm/team-tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/downerdm/team-tracker/issues"
+  },
+  "homepage": "https://github.com/downerdm/team-tracker#readme"
 }
