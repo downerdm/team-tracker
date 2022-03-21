@@ -90,3 +90,10 @@ THEN I exit the application, and the HTML is generated
 
 The following image shows the HTML page that was generated during the video.
 
+![Sample HTML](./main/assets/Downer_TeamTracker.png)
+
+## Walkthrough Video
+
+The following walkthrough video shows all tests being run, the application in use, the HTML file generated, the link to the email working, and the link to GitHub opening in a new tab.
+
+![Walkthrough Video](./main/assets/Downer_TeamTracker.webm)
